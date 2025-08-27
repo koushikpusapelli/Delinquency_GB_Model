@@ -1,0 +1,5 @@
+﻿Customer_ID,Age,Income,Credit_Score,Credit_Utilization,Missed_Payments,Delinquent_Account,Loan_Balance,Debt_to_Income_Ratio,Employment_Status,Account_Tenure,Credit_Card_Type,Location,Month_1,Month_2,Month_3,Month_4,Month_5,Month_6
+CUST0501,56,165580,398,0.390501929,3,,16310,0.317396115,EMP,18,Student,Los Angeles,Late,Late,Missed,Late,Missed,Late
+CUST0502,39,88523,523,0.693081595,3,,29561,0.417303253,EMP,15,Platinum,Phoenix,Late,On-time,On-time,On-time,Late,On-time
+CUST0503,39,88523,523,0.693081595,3,,29561,0.417303253,EMP,16,Platinum,Phoenix,Late,On-time,On-time,On-time,Late,On-time
+CUST0504,66,106362,806,0.626258257,0,,11308,0.43817839,Unemployed,19,Business,Phoenix,Late,Late,Late,Late,Late,On-time
